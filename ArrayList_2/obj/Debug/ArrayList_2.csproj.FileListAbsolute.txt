@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\ArrayList_1\ArrayList_2\bin\Debug\ArrayList_2.exe.config
+C:\Users\Пользователь\Desktop\ArrayList_1\ArrayList_2\bin\Debug\ArrayList_2.exe
+C:\Users\Пользователь\Desktop\ArrayList_1\ArrayList_2\bin\Debug\ArrayList_2.pdb
+C:\Users\Пользователь\Desktop\ArrayList_1\ArrayList_2\obj\Debug\ArrayList_2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ArrayList_1\ArrayList_2\obj\Debug\ArrayList_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\ArrayList_1\ArrayList_2\obj\Debug\ArrayList_2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ArrayList_1\ArrayList_2\obj\Debug\ArrayList_2.exe
+C:\Users\Пользователь\Desktop\ArrayList_1\ArrayList_2\obj\Debug\ArrayList_2.pdb
